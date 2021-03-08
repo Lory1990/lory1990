@@ -14,8 +14,8 @@
 </div>
 
 
-##My Projects
-##Tec Strack
+## My Projects
+## Tech Stack
 ## My Backend Tech Stack
 ## My Frontend Tech Stack
 ## My DevOps Tech Stack
