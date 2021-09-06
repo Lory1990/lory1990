@@ -13,16 +13,20 @@
 
 </div>
 
+## 🎙️📹 My Channels
+ - [**Spotify**](https://twitch.com/lory1990_dev)
+ - [**Twitch**](https://twitch.com/lory1990_dev)
+ - [**You Tube**](https://www.youtube.com/c/LorenzoDeFrancesco)
 
 ## 📦 My Projects
-| Project | Description  | State | Links  | 
+| Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| [**Personal Website**](https://lory1990.github.io/) |   |  WIP | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/lory1990.github.io) |
+| [**Personal Website**](https://lory1990.github.io/) |  My personal website, easy... |  WIP | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/lory1990.github.io) |
 | [**React Cool Components**](https://lory1990.github.io/react-cool-components/)             |   |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/react-cool-components/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)|
 | [**VSC Create React Component**](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component)             |   |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)   |
-| [**Tongy**](https://www.tongy.it)             |   |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.tongy.it)|
-| [**Stage Air**](https://www.stage-air.com)             |   | PROD  |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.stage-air.com) |
-| [**NewoPay**](https://newopay.it)             |   |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://newopay.it) |
+| [**Tongy**](https://www.tongy.it)             | A platform to tech childs foregin languages (English) [Learn More...](https://lory1990.github.io/portfolio/tongy)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.tongy.it)|
+| [**Stage Air**](https://www.stage-air.com)             | [Learn More...](https://lory1990.github.io/portfolio/stage-air)  | PROD  |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.stage-air.com) |
+| [**NewoPay**](https://newopay.it)             | [Learn More...](https://lory1990.github.io/portfolio/newo-pay)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://newopay.it) |
 
 
 <div align="center">
@@ -54,7 +58,7 @@ Want more? Check on [my website...](https://lory1990.github.io/)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<div>
+</div>
 
 ### Other
 <div align="center">
