@@ -27,7 +27,7 @@
 
 <div align="center">
 
-Want more? Check on [my website](https://lory1990.github.io/)...
+Want more? Check on [my website...](https://lory1990.github.io/)
 
 </div>
 
