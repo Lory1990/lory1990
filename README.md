@@ -24,7 +24,13 @@
 | [**Stage Air**](https://www.stage-air.com)             |   | PROD  |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.stage-air.com) |
 | [**NewoPay**](https://newopay.it)             |   |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://newopay.it) |
 
+
+<div align="center">
+
 Want more? Check on [my website](https://lory1990.github.io/)...
+
+</div>
+
 ## 💻Tech Stack
 ### Backend
 
