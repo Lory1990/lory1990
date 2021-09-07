@@ -14,7 +14,6 @@
 </div>
 
 ## 🎙️📹 My Channels
- - [**Spotify**](https://twitch.com/lory1990_dev)
  - [**Twitch**](https://twitch.com/lory1990_dev)
  - [**You Tube**](https://www.youtube.com/c/LorenzoDeFrancesco)
 
@@ -22,11 +21,11 @@
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Personal Website**](https://lory1990.github.io/) |  My personal website, easy... |  WIP | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/lory1990.github.io) |
-| [**React Cool Components**](https://lory1990.github.io/react-cool-components/)             |   |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/react-cool-components/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)|
-| [**VSC Create React Component**](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component)             |   |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)   |
-| [**Tongy**](https://www.tongy.it)             | A platform to tech childs foregin languages (English) [Learn More...](https://lory1990.github.io/portfolio/tongy)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.tongy.it)|
-| [**Stage Air**](https://www.stage-air.com)             | [Learn More...](https://lory1990.github.io/portfolio/stage-air)  | PROD  |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.stage-air.com) |
-| [**NewoPay**](https://newopay.it)             | [Learn More...](https://lory1990.github.io/portfolio/newo-pay)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://newopay.it) |
+| [**React Cool Components**](https://lory1990.github.io/react-cool-components/)             |  A complete design system made with React. Use this library to create an application with awsome UI and high conversion reate  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/react-cool-components/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)|
+| [**VSC Create React Component**](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component)             | A Visual Studio extension to easy create a React component inJS or TS with associated style, formik, redux and other stuff...  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)   |
+| [**Tongy**](https://www.tongy.it)             | A platform to tech childs foregin languages (for now only English). The core activity is to teach language using activites, music and videos, through modules divides in categories [Learn More...](https://lory1990.github.io/portfolio/tongy)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.tongy.it)|
+| [**StageAir**](https://www.stage-air.com) | Are you looking for your first time occupation? Maybe a stage abroad? StageAir aims to be the first european stage marketplace, a place where companies posts stage offers and studens may apply to them. In addition Stage Air can arganize the relocation for you.  [Learn More...](https://lory1990.github.io/portfolio/stage-air)  | PROD  |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://www.stage-air.com) |
+| [**NewoPay**](https://newopay.it)             | Debit is the new credit with NewoPay, you can upload your invoice and NewoPay will pay you in 24 hours and gets the credit from your customer instead of you. No more troubles in getting payments from your customers, NewoPay will do it for you [Learn More...](https://lory1990.github.io/portfolio/newo-pay)  |  PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://newopay.it) |
 
 
 <div align="center">
