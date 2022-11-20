@@ -36,7 +36,7 @@ Want more? Check on [my website...](https://lory1990.github.io/portfolio)
 
 ## Mia Platform Templates
 | Project | Status | Links  | 
-|--------------|---|---|---|
+|---------|--------|--------|
 | [**Quarkus**](https://github.com/Lory1990/mia-platform-quarkus-template/)             |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-template/) |
 | [**Quarkus Native**](https://github.com/Lory1990/mia-platform-quarkus-native-template/)            |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-native-template/) |
 | [**Gatsby**](https://github.com/Lory1990/mia-platform-gatsby-template/)               |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-gatsby-template/) |
