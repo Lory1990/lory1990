@@ -34,14 +34,18 @@ Want more? Check on [my website...](https://lory1990.github.io/portfolio)
 
 </div>
 
+## Mia Platform Templates
+| Project | Status | Links  | 
+|--------------|---|---|---|
+| [**Quarkus**](https://github.com/Lory1990/mia-platform-quarkus-template/)             |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-template/) |
+| [**Quarkus Native**](https://github.com/Lory1990/mia-platform-quarkus-native-template/)            |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-native-template/) |
+| [**Gatsby**](https://github.com/Lory1990/mia-platform-gatsby-template/)               |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-gatsby-template/) |
+| [**NextJS**](https://github.com/Lory1990/mia-platform-nextjs-template/)          |     PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-nextjs-template/) |
+| [**PHP**](https://github.com/Lory1990/mia-platform-php-template/)             |    PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-php-template/) |
+
 ## Mia Platform Microservices
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| [**Quarkus Template**](https://github.com/Lory1990/mia-platform-quarkus-template/)             |  A quarkus template to be used in Mia Platform  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-template/) |
-| [**Quarkus Native Template**](https://github.com/Lory1990/mia-platform-quarkus-native-template/)             |  A quarkus template to be used in Mia Platform with native compilation  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-quarkus-native-template/) |
-| [**Gatsby Template**](https://github.com/Lory1990/mia-platform-gatsby-template/)             |  Gatsby app template to be used in Mia Platform  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-gatsby-template/) |
-| [**NextJS Template**](https://github.com/Lory1990/mia-platform-nextjs-template/)             |  NextJS app template to be used in Mia Platform  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-nextjs-template/) |
-| [**PHP Template**](https://github.com/Lory1990/mia-platform-php-template/)             |  PHP template to be used in Mia Platform  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-php-template/) |
 | [**Datadog Proxy**](https://github.com/lory1990/mia-platform-quarkus-template/)             |  A proxy microservice to proxy all requests to DataDog Real User Monitoring. This way you can avoid AdBlockers  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-datadog-proxy) |
 
 ## 💻Tech Stack
