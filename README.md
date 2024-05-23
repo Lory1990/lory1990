@@ -1,7 +1,7 @@
 ### Here is your Super Hero Software Developer
 📍 Where I Live: **Milan (MI) - Italy**
 
-🔨 What I do: **IT Manager**
+🔨 What I do: **CTO**
 
 <div align="center">
 
