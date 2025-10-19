@@ -13,9 +13,11 @@
 
 </div>
 
+<!--
 ## 🎙️📹 My Channels
  - [**Twitch**](https://twitch.com/lory1990_dev)
  - [**You Tube**](https://www.youtube.com/c/LorenzoDeFrancesco)
+-->
 
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
