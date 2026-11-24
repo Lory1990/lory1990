@@ -1,11 +1,15 @@
-### Here is your Super Hero Software Developer
-📍 Where I Live: **Milan (MI) - Italy**
+### Hi, I'm Lorenzo 👋
+🔨 **CTO** · I turn IT from a cost center into a strategic asset · Fintech, banking & AI
 
-🔨 What I do: **CTO**
+🏦 Leading the technology of Italy's first wealth management bank, where AI works for the financial advisor, at TNB Project (Gruppo Azimut) · CTO at Azimut Marketplace
+
+🎤 45+ talks · Organizer of GDG Milano · Scientific Coordinator of the Master in Full Stack Development & AI at start2impact
+
+📍 Milan, Italy · 🌐 [lorenzodefrancesco.it](https://lorenzodefrancesco.it)
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/lorenzo.defrancesco)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/lorenzodefrancesco)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://facebook.com/lory1990)
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/lory_1990)
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/lory1990)
@@ -22,14 +26,14 @@
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| [**MFE Orchestrator**](https://mfe-orchestrator.dev) | Like Kubernetes... but for frontend | DEV | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://mfe-orchestrator.dev) |
+| [**Opsburg**](https://opsburg.dev) | Keep your cloud up and running. Play it like a city: ship apps and AI agents to Kubernetes through GitOps, with AI agents that read logs and propose fixes | DEV | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://opsburg.dev) |
 | [**Swagger Aggregator**](https://github.com/Lory1990/swagger-aggregator) | A swagger agregator for Kubernetes | PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/swagger-aggregator)|
 | [**React Cool Components**](https://lory1990.github.io/react-cool-components/)             |  A complete design system made with React. Use this library to create an application with awsome UI and high conversion reate  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/react-cool-components/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)|
 | [**VSC Create React Component**](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component)             | A Visual Studio extension to easy create a React component inJS or TS with associated style, formik, redux and other stuff...  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)   |
 
 <div align="center">
 
-Want more? Check on [my website...](https://lory1990.github.io/portfolio)
+Want more? Check [my website](https://lorenzodefrancesco.it/projects)
 
 </div>
 
