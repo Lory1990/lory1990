@@ -1,6 +1,8 @@
 ### Hi, I'm Lorenzo 👋
 🔨 **CTO** · I turn IT from a cost center into a strategic asset · Fintech, banking & AI
 
+🛡️ In finance, **trust is the product**: technology either protects it or puts it at risk.
+
 🏦 Leading the technology of Italy's first wealth management bank, where AI works for the financial advisor, at TNB Project (Gruppo Azimut) · CTO at Azimut Marketplace
 
 🎤 45+ talks · Organizer of GDG Milano · Scientific Coordinator of the Master in Full Stack Development & AI at start2impact
