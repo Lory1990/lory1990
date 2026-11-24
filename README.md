@@ -27,9 +27,7 @@
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Opsburg**](https://opsburg.dev) | Keep your cloud up and running. Play it like a city: ship apps and AI agents to Kubernetes through GitOps, with AI agents that read logs and propose fixes | DEV | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://opsburg.dev) |
-| [**Swagger Aggregator**](https://github.com/Lory1990/swagger-aggregator) | A swagger agregator for Kubernetes | PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/swagger-aggregator)|
-| [**React Cool Components**](https://lory1990.github.io/react-cool-components/)             |  A complete design system made with React. Use this library to create an application with awsome UI and high conversion reate  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lory1990.github.io/react-cool-components/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)|
-| [**VSC Create React Component**](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component)             | A Visual Studio extension to easy create a React component inJS or TS with associated style, formik, redux and other stuff...  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://marketplace.visualstudio.com/items?itemName=lory1990.vsc-react-create-component) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/react-cool-components)   |
+| [**Swagger Aggregator**](https://github.com/Lory1990/swagger-aggregator) | Auto-discover and merge all your Swagger docs in Kubernetes | PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/swagger-aggregator)|
 
 <div align="center">
 
@@ -50,7 +48,7 @@ Want more? Check [my website](https://lorenzodefrancesco.it/projects)
 ## Mia Platform Microservices
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| [**Datadog Proxy**](https://github.com/lory1990/mia-platform-quarkus-template/)             |  A proxy microservice to proxy all requests to DataDog Real User Monitoring. This way you can avoid AdBlockers  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-datadog-proxy) |
+| [**Datadog Proxy**](https://github.com/Lory1990/mia-platform-datadog-proxy)             |  A proxy microservice to proxy all requests to DataDog Real User Monitoring. This way you can avoid AdBlockers  |  PROD | [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/mia-platform-datadog-proxy) |
 
 ## 💻Tech Stack
 ### Backend
